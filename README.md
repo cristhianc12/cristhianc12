@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/cristhianc100"><img src="https://api.daily.dev/devcards/8d4e11eb7dd045a286d0a522eba678ee.png?r=w5g" width="400" alt="Cristhian's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/cristhianc12/cristhianc12/blob/master/devcard.svg" width="400" alt="Cristhian's Dev Card"/></a>
 
 <!--
 **cristhianc12/cristhianc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
